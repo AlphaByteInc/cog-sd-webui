@@ -1,0 +1,5 @@
+.cog
+*.safetensors
+*.ckpt
+*.pth
+.DS_Store
